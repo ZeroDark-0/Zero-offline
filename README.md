@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Gamedevelopment and 2D art and 3D modelling 
 - 🌱 I’m currently learning ... C++, C#, Python, DSA, Blender, Unity
 - 💞️ I’m looking to collaborate on ... Game Development
-- 📫 How to reach me ... Discord(Boldness) and Github
+- 📫 How to reach me ... Discord and Github
 - ⚡ Fun fact: ...I am working on the codes for a linf time but still can't get through it 
 
 <!---
