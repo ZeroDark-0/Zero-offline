@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zero-offline
-- 👀 I’m interested in ...Gamedevelopment and 3D/2D art and modelling 
+- 👀 I’m interested in ...Gamedevelopment and 2D art and 3D modelling 
 - 🌱 I’m currently learning ... C++, C#, Python, DSA, Blender, Unity
 - 💞️ I’m looking to collaborate on ... Game Development
 - 📫 How to reach me ... Discord and Github
