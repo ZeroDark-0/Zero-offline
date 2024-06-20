@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... C++, C#, Python, DSA, Blender, Unity
 - 💞️ I’m looking to collaborate on ... Game Development
 - 📫 How to reach me ... Discord and Github
-- ⚡ Fun fact: ...Doing everything instead of becaming a game dev...
+- ⚡ Fun fact: ...Doing everything except making games...
 
 <!---
 Zero-offline/Zero-offline is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
